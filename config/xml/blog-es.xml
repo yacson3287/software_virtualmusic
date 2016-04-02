@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ES - Blog Ecommerce de PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/es</link>
+	<description></description>
+	<lastBuildDate>Wed, 30 Mar 2016 16:59:51 +0000</lastBuildDate>
+	<language>es-ES</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>LinkBuilding para ecommerce: Maximiza resultados</title>
+		<link>https://www.prestashop.com/blog/es/linkbuilding-para-ecommerce-maximiza-resultados/</link>
+		<comments>https://www.prestashop.com/blog/es/linkbuilding-para-ecommerce-maximiza-resultados/#comments</comments>
+		<pubDate>Wed, 30 Mar 2016 15:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14215</guid>
+		<description><![CDATA[<p>Cuando habl­amos de grupos de factores a nivel de SEO, jamás hemos de olvidar que uno de los más relevantes y difíciles de alcanzar es la Autoridad. Desde que Google nació en el 1998 los links han sido EL factor. Representado por elfamoso Page Rank, escala de valor ya olvidad y actualmente muerta, y ahora [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/linkbuilding-para-ecommerce-maximiza-resultados/">LinkBuilding para ecommerce: Maximiza resultados</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Cuando habl­amos de grupos de factores a nivel de SEO, jamás hemos de olvidar que uno de los más relevantes y difíciles de alcanzar es la Autoridad.<span id="more-14215"></span></p>
+<p style="text-align: left">Desde que Google nació en el 1998 los links han sido EL factor. Representado por elfamoso Page Rank, escala de valor ya olvidad y <a href="https://www.youtube.com/watch?time_continue=1230&amp;v=-GlxLlpm3Ew">actualmente muerta</a>, y ahora bajo el eufemismo de Autoridad, no ha cambiado esencialmente desde su creación en el 98, <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%2Fnetahtml%2FPTO2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=9,165,040.PN.&amp;OS=PN/9,165,040&amp;RS=PN/9,165,040">reinventándose continuamente</a>.</p>
+<p><img class="wp-image-14235 alignleft" alt="patente-google-autoridad-marimon" src="https://www.prestashop.com/blog/es/files/2016/03/patente-google-autoridad-marimon.png" width="554" height="703" /></p>
+<h2><b>Autoridad en 2016 versus Confianza</b></h2>
+<p>Como factor principal siempre ha sido un campo de batalla entre los SEOs y el equipo Anti-Spam de Google. Para evitar su manipulación Google creo un algoritmo llamado Penguin en Abril del 2012 que penalizaba la manipulación más simple (anchor text no naturales, esquemas de enlaces, repeticiones …). Algo que los SEOs ya tienen interiorizado. Esperemos que pronto le de otra vuelta de tuerca al tema…</p>
+<p>En estos últimos años el camino ha sido otro. <b>Google ha ponderado esa autoridad a través de un concepto nuevo, </b>que aparece en varias patentes de Google,<b> la CONFIANZA.</b></p>
+<p>Ese nuevo Factor no es tan predecible y fácil de manipular como la Autoridad. La Confianza tiene muchos pequeños factores que ayudan en el cálculo de ese “Grado de Confianza”, algunos los conocemos, otros no, y muchos son añadidos continuamente a ese cálculo.</p>
+<p>Debido a esos factores de confianza desconocidos, y al crecimiento continuo de su influencia, hace que ya no sea viable a largo plazo una estrategia que no incluya 3 objetivos básicos:</p>
+<ul>
+<li>Generar <b>enlaces naturales</b>.</li>
+<li><b>Crear marca</b>, lo que influye en el número de búsquedas de marca y KW + Marca</li>
+<li><b>Trabajar el UX</b> a nivel de site (CTR, rebote, velocidad de carga, facilidad de uso …).</li>
+</ul>
+<p>La buena noticia es que <b>ya no es necesario generar un volumen muy grande de enlaces para obtener grandes resultados</b>, sino generar una estrategia que maximice la fuerza de esa autoridad.</p>
+<h2><b>Enlaces naturales versus enlaces de pago</b></h2>
+<p><b>Los enlaces naturales, no dejan de ser enlaces de pago, solo que más caros</b>. Crear una estrategia de contenidos, cuyo objetivo es que sea enlazada por su valor, es simplemente … más caro. Requiere más horas, personal, inversión, esfuerzos de promoción y conocimiento del target. Esto no es barato, pero es absolutamente necesario. Sin generar esos enlaces naturales, no activaremos esos disparadores de Confianza.</p>
+<p>Eso no significa que no le demos un empujón. Hace unos años creamos <a href="http://www.linkbuilding.es/">LinkBuilding.es</a>, un portal que actualmente ya tiene más de 2.000 bloggers inscritos en España, Italia y Francia. Y ninguno perteneciente a una red, o un SEO o sites creados para la venta de enlaces o generación de links. Solo bloggers que escriben porque les apasiona.</p>
+<p>“El mejor enlace SIEMPRE es el que te aporta tráfico.”</p>
+<h2><b>Estrategia de linkbuilding para un ecommerce.</b></h2>
+<p>Nuestro ecommerce debería generar enlaces naturales a la home. Links de marca. Eso significa que tenemos un proyecto que funciona y sería lo natural. Trabajar correctamente la arquitectura nos ayudara a traspasar esa autoridad correctamente hacia landings más profundas. Pero <b>no es suficiente y ese es el problema</b>.</p>
+<p>Para obtener grandes resultados en el posicionamiento de nuestras categorías <b>tenemos que generar enlaces hacia nuestras páginas internas</b>. Esto en un ecommerce significa enlaces a los productos, contenidos y categorías relacionadas.</p>
+<p>De ahí que la generación de “contenidos enlazables” que desarrollaré en el próximo post sea esencial en esta estrategia.</p>
+<p>Ahora centrémonos en <b>¿dónde deberían apuntar esos link?</b>.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/linkbuilding-ecommerce-estrategia-marimon.png"><img class="alignleft size-full wp-image-14233" alt="linkbuilding-ecommerce-estrategia-marimon" src="https://www.prestashop.com/blog/es/files/2016/03/linkbuilding-ecommerce-estrategia-marimon.png" width="1562" height="1014" /></a></p>
+<p>Lo habitual es que nos obsesionemos con enlazar a la categoría que queremos posicionar, pero es un error. <b>Los enlaces se deberían generar hacia todo el cluster de contenidos relacionados</b>. Categorías más profundas, productos y contenidos relacionados. Esa estrategia es la que nos tiene que obsesionar. ¿Qué tipo de contenido he de crear para generar esos enlaces y menciones sociales hacia ese contenido?. Toda estrategia de linkbuilding que se precie, que mejore con el paso del tiempo, tiene que generar enlaces naturales + menciones sociales desde perfiles reales.</p>
+<p>&nbsp;</p>
+<p>Sobre el autor:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2015/07/jordi.jpg"><img class=" wp-image-13125 alignleft" style="margin-top: 8px;margin-bottom: 8px" alt="Jordi" src="https://www.prestashop.com/blog/es/files/2016/03/arturo-marimon-seo_perfil.jpg.jpg" width="80" height="80" /></a><strong>Arturo Marimón</strong> &#8211; CEO y Consultor SEO en <a href="http://arturomarimon.com/" target="_blank">AM Consultores (Barcelona).</a> Desde 1998 trabajando en multiplicar el tráfico de PYMES y grandes marcas. Co-fundador de <a href="http://www.clinicseo.es/" target="_blank">Clinic SEO</a> y formador en empresas y Escuelas de negocio. Twitter: <a href="https://twitter.com/arturomarimon" target="_blank">@arturomarimon</a> | Linkedin: <a href="https://es.linkedin.com/in/arturomarimon" target="_blank">Arturo Marimón</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/linkbuilding-para-ecommerce-maximiza-resultados/">LinkBuilding para ecommerce: Maximiza resultados</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/linkbuilding-para-ecommerce-maximiza-resultados/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Galaxy Kayaks: Cómo usar PrestaShop para vender kayaks de pesca por toda Europa</title>
+		<link>https://www.prestashop.com/blog/es/galaxy-kayaks-como-usar-prestashop-para-vender-kayaks-de-pesca-por-toda-europa/</link>
+		<comments>https://www.prestashop.com/blog/es/galaxy-kayaks-como-usar-prestashop-para-vender-kayaks-de-pesca-por-toda-europa/#comments</comments>
+		<pubDate>Wed, 30 Mar 2016 09:13:26 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Caso de éxito]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14251</guid>
+		<description><![CDATA[<p>La pesca en kayak es una de las subcategorías de mayor crecimiento de una de las aficiones más populares de Europa. Este pasatiempos tradicional no es solo fuente de comida, sino también un deporte muy popular. ¡En el Reino Unido hay más licencias de pesca que jugadores de fútbol en las ligas de los domingos! [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/galaxy-kayaks-como-usar-prestashop-para-vender-kayaks-de-pesca-por-toda-europa/">Galaxy Kayaks: Cómo usar PrestaShop para vender kayaks de pesca por toda Europa</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>La pesca en kayak es una de las subcategorías de mayor crecimiento de una de las aficiones más populares de Europa. Este pasatiempos tradicional no es solo fuente de comida, sino también un deporte muy popular. ¡En el Reino Unido hay más licencias de pesca que jugadores de fútbol en las ligas de los domingos! En España, los permisos de pesca superan el millón. Y dentro de este mundo, la pesca con kayak cobra cada vez más fuerza en muchos países. Así es cómo empezó la historia de <a href="http://www.es.galaxykayaks.eu/es/" target="_blank">Galaxy Kayaks</a>.<br />
+<span id="more-14251"></span></p>
+<h2 style="color:#2c347f">El nacimiento de una nueva tienda online</h2>
+<p>En 2012, Stephen Sweeney tenía muy claro que quería cambiar de vida. Su búsqueda de alternativas acabó con un encuentro fortuito con un amigo, el propietario de <a href="http://www.es.galaxykayaks.eu/en/" target="_blank">Galaxy Kayaks</a> (una empresa británica fundada en 2007), que le animó a lanzar Galaxy Kayaks en España. Juntos podrían incluso formar Galaxy Kayaks UE. </p>
+<p>Galaxy Kayaks nació cuando la pesca en kayak comenzaba a cobrar popularidad. Por entonces, la mayoría de la oferta del mercado no alcanzaba calidad suficiente o resultaba excesivamente cara. El punto de venta habitual eran las tiendas especializadas, con todos sus intermediarios y altos márgenes de beneficios. ¿El resultado? Un precio medio de unos 1.000 € por encima de su valor. Estaba claro que había un nicho para kayaks asequibles vendidos directamente al consumidor. </p>
+<p>Stephen unió todas las piezas y encontró la solución perfecta: crear una tienda online para vender <a href="http://www.es.galaxykayaks.eu/es/6-kayaks-de-pesca" target="_blank">kayaks de pesca</a> de calidad y a buen precio. Se decidió por PrestaShop para diseñar un sitio web que ahora se aloja en <a href="http://www.es.galaxykayaks.eu/es/" target="_blank">www.galaxykayaks.eu</a>. </p>
+<p>Galaxy Kayaks se propuso una pequeña revolución: fabricar, importar y vender kayaks de gama alta por menos de 500 € y entregados directamente en casa del cliente. Con este objetivo en mente, Stephen pensó en extender la iniciativa por toda Europa para conseguir liderar el mercado de la UE. Como él mismo explica, la idea surgió de su pasión por las actividades al aire libre, como la pesca, y de su deseo de encontrar un trabajo que encajara con su estilo de vida. </p>
+<h2 style="color:#2c347f">Derribar barreras culturales en el sector del e-commerce</h2>
+<p>Lanzar un negocio totalmente internacional no es tarea fácil. La prioridad básica es tener un sitio web sólido en el que vender los productos. Optamos por un modelo con subdominios para cada país: así la empresa puede trabajar en equipos pequeños y flexibles que controlan su propia tienda&#8230; sin renunciar a los beneficios SEO del dominio compartido.</p>
+<p>&#8220;He tenido la suerte de estar siempre al frente de mi propio negocio. Mi última aventura fue en el sector de la restauración, gestionando 15 restaurantes. Vi la posibilidad de aprovechar mi experiencia con franquicias en el mercado de los kayaks y de aplicar un modelo de negocio similar a escala internacional (online)&#8221;, explica Stephen. </p>
+<p>Un paso esencial fue encontrar una plataforma de e-commerce adecuada para este sistema: tenía que ofrecer flexibilidad y no suponer una inversión inicial demasiado alta. La comunidad de PrestaShop era otro de sus atractivos ya que demostraba su adaptabilidad. Además, la disponibilidad de incontables módulos le permitía a la empresa diseñar un entorno con funciones específicas para su negocio. Tras muchas horas de investigación y análisis, Galaxy Kayaks EU se decantó por PrestaShop. </p>
+<p>El enfoque internacional se extiende a todas las facetas del negocio, incluido el marketing. Usan estrategias distintas debido a las diferencias culturales y sociales en Europa&#8230; que se traducen en diferencias promocionales. Por ejemplo, en España, Galaxy Kayaks EU vende más para Reyes (el 6 de enero) que en Navidad. Por otra parte, dar al equipo de cada país un control total sobre su propio mercado facilita la gestión de los productos y del stock. Obviamente, este modelo también tiene que adaptarse automáticamente a barreras idiomáticas y culturales.</p>
+<h2 style="color:#2c347f">Implicación en la comunidad</h2>
+<p>Una de las claves del éxito de Galaxy Kayaks EU, más allá de la calidad de sus productos, es su proximidad al mercado, tanto virtual como presencial. Trabajar en equipos más pequeños centrados en cada mercado nacional permite entablar relaciones más estrechas con los clientes. Las redes sociales han facilitado la tarea, pero la baza principal ha sido la capacidad para interactuar con los clientes a través del contenido. </p>
+<p>¡A los pescadores les encanta sacar fotos y vídeos de sus capturas! Les apasiona tanto lo que hacen que crean una comunidad que adora compartir contenido y comentarlo. Cada país tiene sus propias preferencias en cuanto a redes sociales: en Francia se decantan por los foros, en España Facebook es el rey. </p>
+<p>Desde una perspectiva empresarial, usar el <a href="http://addons.prestashop.com/es/4731-professional-blog.html" target="_blank">blog que ofrece PrestaShop</a> para escribir sobre temas específicos y compartir las entradas en las redes sociales atrae una gran cantidad de tráfico. ¡Si los artículos están bien escritos y están relacionados con promociones activas pueden ser una excelente herramienta de ventas! </p>
+<p>Por no mencionar que algunos clientes acaban formando parte del negocio. Las opiniones de los pescadores con kayak más experimentados ayudan a nuestros expertos a desarrollar los futuros modelos de Galaxy Kayaks EU. El mostrarnos cercanos y pedir sin reservas la opinión del los clientes nos ayudar a crear una clientela apasionada y comprometida.</p>
+<p>También hemos estrechado lazos con la comunidad de pescadores físicamente, patrocinando importantes citas oficiales nacionales y locales, como los campeonatos españoles de esta modalidad. Esta estrategia permite poner cara a los nombres y forjar relaciones sólidas y cercanas&#8230; superando el vacío que afecta a las empresas que trabajan solo en el mundo digital.</p>
+<h2 style="color:#2c347f">Éxito en el comercio electrónico</h2>
+<p>A través de estas estrategias pensadas para crear comunidad, las redes sociales de Galaxy Kayaks EU han crecido&#8230; más de un 800 % en un año. ¡El tráfico diario de su web sube un 500 % y las ventas se disparan! Gran parte de estos resultados se deben a su constante implicación con la comunidad. Aunque su éxito no acaba ahí. </p>
+<p>Desde su lanzamiento, la marca ha vivido una notable expansión y Galaxy Kayaks EU ya está disponible en España, Francia, Portugal, Italia y Escandinavia. La facturación anual del grupo Galaxy Kayaks EU supera los 2 millones de euros. Si se le pregunta por el secreto de su éxito, Stephen lo tiene claro: &#8220;Si te gusta lo que haces, esa pasión te lleva a dar el paso extra que necesitas para tener éxito en los negocios&#8221;.</p>
+<hr style="width:20%;text-align:left">
+<p>¿Esta historia te ha animado a lanzar tu propia tienda online? Empieza hoy mismo con <a href="http://www.prestashop.com/">PrestaShop</a>. ¿Quieres conocer más historias como esta? Echa un vistazo a nuestras <a href="https://www.prestashop.com/blog/es/category/sucess-story/">historias de éxito</a>. </p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/galaxy-kayaks-como-usar-prestashop-para-vender-kayaks-de-pesca-por-toda-europa/">Galaxy Kayaks: Cómo usar PrestaShop para vender kayaks de pesca por toda Europa</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/galaxy-kayaks-como-usar-prestashop-para-vender-kayaks-de-pesca-por-toda-europa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SEO en páginas de categorías en un ecommerce: SEO on page efectivo</title>
+		<link>https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-seo-page-efectivo/</link>
+		<comments>https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-seo-page-efectivo/#comments</comments>
+		<pubDate>Tue, 29 Mar 2016 15:04:39 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+		<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14205</guid>
+		<description><![CDATA[<p>Una vez que tenemos precisado el listado de palabras clave relacionadas con categorías de producto para posicionar nuestra página web comenzamos con la etapa de tareas de SEOonpage. (Si no sabes de lo que te hablo te recomiendo leer mi anterior artículo donde hablo de la elección de las palabras clave relacionadas con categorías de [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-seo-page-efectivo/">SEO en páginas de categorías en un ecommerce: SEO on page efectivo</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Una vez que tenemos precisado el listado de palabras clave relacionadas con categorías de producto para posicionar nuestra página web comenzamos con la etapa de tareas de SEOonpage. (Si no sabes de lo que te hablo te recomiendo leer mi <a href="https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-identificando-oportunidades/">anterior artículo</a> donde hablo de la elección de las palabras clave relacionadas con categorías de productos en un ecoomerce)<span id="more-14205"></span></p>
+<p>La página relacionada con una familia o categoría de productos se debe optimizar su relevancia On-Page de la misma forma que otra Landing Page SEO más. Buen etiquetado SEO y sobretodo, contenidos relevantes y útiles para el usuario.</p>
+<p>Supongamos que deseo posicionarme con la frase de categoría “lámparas de techo”. Construyo mi página específica de dicha categoría y la maqueto de la siguiente forma:</p>
+<h2>1. El etiquetado SEO:</h2>
+<div>
+<h3><span style="color: #b91c97">Etiqueta Title:</span></h3>
+<p><span style="color: #b91c97">Comprar Lámparas de Techo Online en PepitoLight</span></p>
+<h3><span style="color: #b91c97">Etiqueta description:</span></h3>
+<p><span style="color: #b91c97">Encuentra las mejores Lámparas de Techo para tu casa u oficina. Contamos con el más amplio catálogo. Lámparas de Techo modernas, rústicas, de diseño, etc.</span></p>
+<h3><span style="color: #b91c97">URL:</span></h3>
+<p><span style="color: #b91c97">http://www.pepitolight.com/lamparas-techo</span></p>
+</div>
+<p><span style="line-height: 1.5">Puedes usar la herramienta Seomofo</span><span style="line-height: 1.5"> </span><a style="line-height: 1.5" href="http://www.seomofo.com/snippet-optimizer.html" target="_blank">http://www.seomofo.com/snippet-optimizer.html</a><span style="line-height: 1.5"> para ver cómo te quedaría maquetado los Serps de dicha página.</span></p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/SEOonpageGosende1.png"><img class="alignleft size-full wp-image-14237" alt="SEOonpageGosende1" src="https://www.prestashop.com/blog/es/files/2016/03/SEOonpageGosende1.png" width="798" height="360" /></a></p>
+<p>Con esta herramienta puedes visualizar si la redacción de las etiquetas por si te queda muy larga o corta.</p>
+<p>En líneas generales en la redacción hay que poner la palabra clave principal con la que te quieres posicionar más un texto con gancho para que los usuarios se animan a pinchar en nuestro resultado orgánico.</p>
+<h2>2. Optimización de contenido en las páginas de categoría:</h2>
+<p>Cada página de categoría debe tener contenido único y relevante. Lamentablemente la gran mayoría de páginas de familias de productos solo incluyen un titular y luego pasan a mostrar fotos de los productos para que sean pinchadas por el usuario y así acceder a la página de ficha de producto. Esto hace que las páginas se queden huérfanas de contenidos relevantes tomados en cuenta por Google.</p>
+<p>¿Qué debemos hacer? <b>Insertar varios párrafos ricos en contenidos relevante</b> y útil para el usuario que visita nuestra tienda online.</p>
+<p>Veamos ejemplos de otras páginas web:</p>
+<p>Veamos la página de categoría de Botas de Mujer de Zalando: <a href="https://www.zalando.es/botas-mujer/" target="_blank">https://www.zalando.es/botas-mujer/</a></p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/SEOonpageGosende2.png"><img class="alignleft size-full wp-image-14238" alt="SEOonpageGosende2" src="https://www.prestashop.com/blog/es/files/2016/03/SEOonpageGosende2.png" width="786" height="655" /></a></p>
+<p>Observamos que Zalando inserta varios párrafos hablando sobre las Botas de Mujer. Texto con buena densidad para ser considerado por Google como relevante.</p>
+<p>Analicemos ahora este buen ejemplo de esta <b>tienda online de juguetes eróticos Diversual creada con Prestashop</b> y que es la mejor posicionada en su sector.</p>
+<p>Veamos la página de la categoría de Bolas Chinas <a href="http://www.diversual.com/es/39-bolas-chinas" target="_blank">http://www.diversual.com/es/39-bolas-chinas</a></p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/SEOonpageGosende3.png"><img class="alignleft size-full wp-image-14239" alt="SEOonpageGosende3" src="https://www.prestashop.com/blog/es/files/2016/03/SEOonpageGosende3.png" width="870" height="538" /></a></p>
+<p>Observamos que se inserta un párrafo arriba antes de poner el listado de productos de la categoría. Ese párrafo contiene palabras clave relevantes a nivel SEO.</p>
+<p>Y luego al final de esa página se vuelve a incluir más párrafos ricos en contenido relevante y útil. Ver ejemplo:</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/SEOonpageGosende4.png"><img class="alignleft size-full wp-image-14240" alt="SEOonpageGosende4" src="https://www.prestashop.com/blog/es/files/2016/03/SEOonpageGosende4.png" width="690" height="648" /></a></p>
+<p>Al final esta página de categoría es una mezcla de glosario del producto, preguntas frecuentes y consejos de uso. Ese es el contenido útil que le gusta al usuario y que le gusta a Google.</p>
+<h2><b></b>3. Etiquetado del contenido</h2>
+<p>Adicionalmente debemos tomar en cuenta algunos detalles de etiquetado en la página de categoría. Estos puntos son:</p>
+<p><b>Encabezamientos de Marcas de Jerarquía (h1, h2, h3, etc.)</b></p>
+<p>Los encabezamientos H1 a H6 permiten identificar qué texto es más importante en la página, ya que las arañas no distinguen el tamaño de letra. Por esto es importante identificar los encabezamientos con marcas H1 a H6 dentro de una jerarquía lógica. Se recomienda poner 1 solo H1, y poner varios H2, H3 según la jerarquía de títulos y subtítulos que vas usando en la maquetación de tu página web.</p>
+<p>Por ejemplo podrías aplicarlo así</p>
+<div>
+<p><span style="color: #b91c97"><b>&lt;h1&gt;Catálogo de Lámparas de Techo&lt;/h1&gt;</b></span></p>
+<p><span style="color: #b91c97"><b>                &lt;h2&gt;¿Qué son las lámparas de Techo?&lt;/h2&gt;</b></span></p>
+<p><span style="color: #b91c97"><b>                &lt;p&gt;</b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pulvinar augue sit amet quam tempus eleifend. Aenean lacinia semper ex et dignissim. Mauris faucibus leo ut nisi varius, et rutrum<b>.&lt;/p&gt;</b></span></p>
+<p><span style="color: #b91c97"><b>                &lt;h2&gt;¿Para qué tipo de casa viene bien las lámparas de techo?&lt;h2&gt;</b></span></p>
+<p><span style="color: #b91c97"><b>&lt;p&gt;</b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pulvinar augue sit amet quam tempus eleifend. Aenean lacinia semper ex et dignissim. Mauris faucibus leo ut nisi varius, et rutrum.<b>&lt;/p&gt;</b></span></p>
+<p><span style="color: #b91c97"><b>                &lt;h2&gt;¿Por qué comprar estas lámparas en nuestra tienda online?&lt;/h2&gt;</b></span></p>
+<p><span style="color: #b91c97"><b>&lt;p&gt;</b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pulvinar augue sit amet quam tempus eleifend. Aenean lacinia semper ex et dignissim. Mauris faucibus leo ut nisi varius, et rutrum.<b>&lt;/p&gt;</b></span></p>
+</div>
+<p><b>Etiquetado de imágenes</b></p>
+<p>Las imágenes pueden aportar un pequeño granito de arena en la relevancia SEO de la página de categoría. Lo recomendable es que la imagen que subamos como principal de la página de categoría tenga presente los siguientes parámetros</p>
+<p>-          Nombre del Archivo de la Imagen: lámparas-techo.jpg</p>
+<p>-          Etiqueta Alt de la Imagen: Comprar Online Lámparas de Techo en PepitoLight</p>
+<p><b> </b></p>
+<p><b>Conclusión: Hacer feliz al usuario es hacer feliz a Google</b></p>
+<p>Google en sus directrices para webmasters dice: “<i>Piensa en las frases que usan tus usuarios para encontrarte y asegúrate que estén presentes en tus páginas</i>”. Eso es lo que tenemos que hacer con nuestras páginas de categorías en una tienda online. Crear páginas por palabras clave vinculadas a categorías de productos y poner mucho contenido de calidad explicando porque nuestra tienda online tiene los mejores productos de esa categoría. Al no tener un vendedor en la tienda online, su sustituto natural es el buen contenido.</p>
+<p>Sobre el Autor:</p>
+<p><a style="line-height: 1.5;color: #ea9629;text-decoration: underline" href="https://www.prestashop.com/blog/es/files/2016/03/Javier_Gosende.jpg"><img class="wp-image-14159 alignleft" style="margin-top: -5px;margin-bottom: -5px" alt="Javier_Gosende" src="https://www.prestashop.com/blog/es/files/2016/03/Javier_Gosende.jpg" width="80" height="80" /></a><b>Javier Gosende </b>– Profesor y Consultor en Marketing Online desde el 2004, especializado en SEO y SEM. Sitio web <a href="http://www.javiergosende.com/" target="_blank">www.javiergosende.com</a> Twitter: <a href="http://twitter.com/javiergosende" target="_blank">@javiergosende</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-seo-page-efectivo/">SEO en páginas de categorías en un ecommerce: SEO on page efectivo</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-seo-page-efectivo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop lanza su canal YouTube con consejos, buenas prácticas y tutoriales sobre e-commerce</title>
+		<link>https://www.prestashop.com/blog/es/prestashop-lanza-su-canal-de-youtube-con-consejos-buenas-practicas-y-tutoriales-sobre-comercio-electronico/</link>
+		<comments>https://www.prestashop.com/blog/es/prestashop-lanza-su-canal-de-youtube-con-consejos-buenas-practicas-y-tutoriales-sobre-comercio-electronico/#comments</comments>
+		<pubDate>Tue, 29 Mar 2016 14:50:57 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14259</guid>
+		<description><![CDATA[<p>Hoy es un gran día para PrestaShop y su comunidad. Después de varias semanas de preparación, decenas de horas de grabaciones de vídeo, numerosos montajes y varios litros de café, PrestaShop tiene el placer de presentaros oficialmente el lanzamiento de su canal de YouTube. Siempre nos hemos esforzado por ayudar a los vendedores online a [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/prestashop-lanza-su-canal-de-youtube-con-consejos-buenas-practicas-y-tutoriales-sobre-comercio-electronico/">PrestaShop lanza su canal YouTube con consejos, buenas prácticas y tutoriales sobre e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hoy es un gran día para PrestaShop y su comunidad. Después de varias semanas de preparación, decenas de horas de grabaciones de vídeo, numerosos montajes y varios litros de café, PrestaShop tiene el placer de presentaros oficialmente el <b>lanzamiento de </b><a href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch" target="_blank"><b>su </b><b>canal de YouTube</b></a><a href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch">.</a></p>
+<p>Siempre nos hemos esforzado por ayudar a los vendedores online a crear y desarrollar su actividad. Para ir más allá en nuestra labor, lanzamos hoy un canal de YouTube dedicado por completo al e-commerce.</p>
+<p><span id="more-14259"></span></p>
+<p><script src="https://apis.google.com/js/platform.js"></script></p>
+<div class="g-ytsubscribe" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<hr />
+<h2>Pero, ¿qué vais a encontrar en el canal exactamente?</h2>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/1xpOy6lUtFU?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Nada menos que contenidos originales y exclusivos que incluirán multitud de <b>consejos, recomendaciones y buenas prácticas de expertos en e-commerce.</b> <b>Nuestros vendedores también compartirán sus experiencias </b>en el canal para aquellos en busca de inspiración.</p>
+<p>Asimismo, encontraréis <b>tutoriales</b> sobre nuestra solución de e-commerce, <b>repeticiones de conferencias y directos en YouTube</b> para ayudaros a crear, gestionar y optimizar vuestro sitio web de e-commerce.</p>
+<p>Ahora que ya conocéis nuestro <a href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch" target="_blank">canal</a>, no dudéis en suscribiros para no perderos nada y garantizar el éxito de vuestro proyecto de e-commerce.</p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f; border: 1px solid #b31217; border-bottom: 3px solid #b31217; margin: 20px 0 0; color: #fff;" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch" target="_blank"><i class="fa fa-youtube-play"></i>   Suscribirse</a></div>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/prestashop-lanza-su-canal-de-youtube-con-consejos-buenas-practicas-y-tutoriales-sobre-comercio-electronico/">PrestaShop lanza su canal YouTube con consejos, buenas prácticas y tutoriales sobre e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/prestashop-lanza-su-canal-de-youtube-con-consejos-buenas-practicas-y-tutoriales-sobre-comercio-electronico/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La plantilla virtual en un negocio online: 10 consejos para impulsar la productividad</title>
+		<link>https://www.prestashop.com/blog/es/la-plantilla-virtual-en-un-negocio-online-10-consejos-para-impulsar-la-productividad/</link>
+		<comments>https://www.prestashop.com/blog/es/la-plantilla-virtual-en-un-negocio-online-10-consejos-para-impulsar-la-productividad/#comments</comments>
+		<pubDate>Mon, 21 Mar 2016 14:28:11 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14197</guid>
+		<description><![CDATA[<p>De aquí a 2017, se prevé que las ventas realizadas a través del comercio electrónico alcancen los 434.200 millones de dólares, frente a los 225.500 millones de 2012. Claramente, se trata de una actividad al alza. Los emprendedores que quieran ampliar su negocio no pueden permitirse participar en absolutamente todas las tareas: tendrás que delegar [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/la-plantilla-virtual-en-un-negocio-online-10-consejos-para-impulsar-la-productividad/">La plantilla virtual en un negocio online: 10 consejos para impulsar la productividad</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>De aquí a 2017, se prevé que las ventas realizadas a través del comercio electrónico <a href="http://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/" target="_blank">alcancen los 434.200 millones de dólares</a>, frente a los 225.500 millones de 2012. Claramente, se trata de una actividad al alza.</p>
+<p>Los emprendedores que quieran ampliar su negocio no pueden permitirse participar en absolutamente todas las tareas: tendrás que delegar actividades como la actualización de descripciones de productos, la exportación de datos, la gestión de las existencias o las redes sociales si quieres pasar al siguiente nivel.</p>
+<p>Gestionar a una plantilla virtual puede liberarte de algunas de las actividades cotidianas que tanto tiempo te consumen. Eso sí, no cometas el error de pensar que no necesitas formar y gestionar a tus ayudantes virtuales (AV).</p>
+<p>Aquí tienes diez consejos y herramientas para sacar el máximo partido de tu plantilla virtual.<br />
+<span id="more-14197"></span></p>
+<h4 style="color: #e78199">1. Ten claro qué (y cómo) delegar</h4>
+<p>Has de tener claro tus puntos fuertes y lo que necesitas que tu equipo haga. Independientemente de con cuántos empleados cuentes para tu tienda online, vale la pena saber cómo optimizar tu tiempo y las cualidades de cada miembro de tu equipo. Delega tareas en función de lo que haya que hacer, pero también a quien vaya a hacerlas mejor.</p>
+<h4 style="color: #e78199">2. Fomenta una cultura de trabajo en equipo y unidad</h4>
+<p>Es fácil cuando todos compartís oficina a diario, pero no tanto si el equipo está repartido por todo el país o incluso por todo el mundo. Aunque es importante tener en cuenta las diferencias horarias entre las distintas ubicaciones geográficas, haz todo lo posible por facilitar un lugar en el que los empleados puedan reunirse como si estuvieran en la máquina de café charlando unos con otros. Puedes hacerlo creando una conversación grupal de Skype, un grupo secreto de Facebook, o tu propia red social interna, con herramientas como <a href="https://podio.com/site/en" target="_blank">Podio</a>.</p>
+<p>Organiza reuniones virtuales con Skype, Google Hangouts u otras herramientas, como <a href="http://www.gotomeeting.com/" target="_blank">GoToMeeting</a>. El horario puede ser un problema si trabajas desde el otro lado del globo, así que asegúrate de grabarlo todo para que los que no hayan podido asistir en directo puedan visualizar la reunión más tarde.</p>
+<h4 style="color: #e78199">3. Configura derechos de acceso para los AV</h4>
+<p>Con PrestaShop, es fácil <a href="http://doc.prestashop.com/display/PS16/Permisos+de+Perfiles" target="_blank">configurar derechos de acceso a tu tienda</a> para cada uno de los miembros de tu equipo. ¿Tienes un amplio catálogo y necesitas ayuda para actualizarlo? Las cuentas de empleados te permiten controlar qué miembros del equipo pueden tener acceso. A medida que tus AV se vayan ganando tu confianza, podrás incrementar su carga de trabajo y nivel de acceso.</p>
+<p><img class="aligncenter size-large wp-image-14203" alt="adm012-permissions-en2-161" src="https://www.prestashop.com/blog/es/files/2016/03/adm012-permissions-en2-161-1024x482.png" width="700" height="329" /></p>
+<h4 style="color: #e78199">4. Protege tus datos en la nube</h4>
+<p>Hoy en día, todo está en la nube. Incluso PrestaShop. Controlar los niveles de acceso es un primer paso fundamental a la hora de gestionar tu negocio de comercio electrónico. Pero, ¿qué pasa con el resto de software en la nube al que tus AV pueden acceder desde sus dispositivos personales?</p>
+<p>Microsoft SCCM puede gestionar los niveles de acceso de tu plantilla virtual a todas tus aplicaciones en la nube desde sus dispositivos. Si no sabes cómo utilizar un sistema como éste para tu tienda online, aquí tienes unos sencillos <a href="https://www.cbtnuggets.com/it-training/microsoft-sccm-70-243-r2" target="_blank">tutoriales acerca de Microsoft SCCM</a>. Con una única consola de gestión, puedes gestionar Macs, PC, servidores y dispositivos móviles en la nube con sistema operativo Windows®, iOS® o Android™, todo ello desde una ubicación central.</p>
+<h4 style="color: #e78199">5. Implanta un proceso de incorporación y formación</h4>
+<p>Crea una serie de vídeos para formar a tu equipo sobre cómo realizar las diversas tareas vinculadas al trabajo. Ten preparados documentos como formularios W9, contratos, acuerdos de confidencialidad y demás de cara a nuevas contrataciones. Puedes plantearte utilizar una plataforma como <a href="https://www.docusign.com/" target="_blank">DocuSign</a> para gestionar la firma digital de documentación.</p>
+<h4 style="color: #e78199">6. Centraliza el control del tiempo de trabajo y las nóminas</h4>
+<p>Con plataformas como Tick, puedes <a href="https://www.tickspot.com/project-budget-tracking" target="_blank">planificar y controlar el tiempo de trabajo de tu equipo</a>. Si estás muy preocupado sobre si tu equipo está trabajando de verdad, recurre a herramientas como <a href="https://hubstaff.com/" target="_blank">Hubstaff</a>. Puedes añadir varios miembros del equipo y proyectos y gestionar pagos desde el sistema, para que resulte más fácil para todos.</p>
+<p><img class="aligncenter size-full wp-image-21266" alt="img02" src="https://www.prestashop.com/blog/es/files/2016/03/img02.png" width="490" height="290" /></p>
+<p class="text-center"><em style="font-size: 12px">Captura de pantalla de Tick</em></p>
+<h4 style="color: #e78199">7. Recompensa el trabajo bien hecho</h4>
+<p>Quizás no puedas ofrecer un paquete completo de beneficios al más puro estilo Google o Facebook, pero los incentivos pueden contribuir enormemente a la felicidad de tus empleados. Un <a href="http://www.globoforce.com/resources/research-reports/shrmgloboforce-fall-2012-report-the-business-impact-of-employee-recognition/" target="_blank">estudio de 2012</a> reveló que el 41 % de las empresas con programas de reconocimiento entre iguales habían experimentado una mejora en la satisfacción del cliente, así que realmente vale la pena que tus empleados estén contentos. Este mismo estudio también apuntó a un descenso de la tasa de rotación del 23,4 % de media.</p>
+<p>Plantéate ofrecer bonos en efectivo, tarjetas regalo o incluso recompensas tangibles como tabletas, ordenadores o videoconsolas a los empleados que verdaderamente destaquen en su labor para mejorar tu negocio.</p>
+<h4 style="color: #e78199">8. Forma a tu equipo en materia de fraudes</h4>
+<p>A la hora de <a href="https://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/">gestionar tu tienda</a>, tarde o temprano tendrás que hacer frente al fraude, una situación nada agradable. Tu equipo ha de saber qué aspectos vigilar y qué efectos pueden tener en el negocio las operaciones fraudulentas. Normalmente, los negocios pequeños son presa fácil para los hackers. Si tu equipo sabe en qué aspectos fijarse, podrá evitar males mayores en sus labores de comprobación y ahorrarte tiempo y frustraciones.</p>
+<h4 style="color: #e78199">9. Siempre disponible para tu equipo</h4>
+<p>Asegúrate de que cualquier miembro de tu equipo pueda ponerse en contacto contigo si lo necesita. Estar disponible para responder preguntas o brindar más apoyo puede ayudar a mantener abiertas las vías de comunicación. Cuando tu equipo sabe que puede contar contigo, es menos probable que tengas problemas porque teman consultarte algo antes de que se convierta en un motivo de preocupación.</p>
+<h4 style="color: #e78199">10. Ten preparado un plan para hacer frente a la rotación</h4>
+<p>Si tienes a la plantilla perfecta, ¡enhorabuena! Pero es muy probable que esto no dure para siempre. Los miembros de plantillas virtuales, ya trabajen para ti a jornada parcial o completa, podrían encontrar otras oportunidades para crecer y prosperar. Por ello, has de estar preparado para sustituir a cualquier miembro de tu plantilla en cualquier momento. Puede que los miembros de tu equipo no estén rindiendo lo que necesitas y, después de muchas oportunidades, decidas que tienes que reemplazarlos.</p>
+<p>Deberás saber dónde encontrar nuevos colaboradores, con independencia de que los contrates como autónomos o como empleados por cuenta ajena. LinkedIn es un sitio perfecto para iniciar tu búsqueda, pero también puedes publicar anuncios en Craigslist o recurrir a webs de autónomos como Guru si te ves en un apuro.</p>
+<p>Gestionar un equipo virtual para cualquier negocio, especialmente el comercio electrónico, no es tarea fácil. Pero, afortunadamente para ti, incluso si tienes un presupuesto reducido, existen numerosas herramientas asequibles a tu disposición que os facilitarán el trabajo a todos.</p>
+<hr align="left" width="20%" />
+<p>Darren tiene un MBA en Marketing por Internet y, lo que es más importante, una década de experiencia sobre el terreno. Echa un vistazo a <a href="https://selfstartr.com/" target="_blank">Selfstartr</a> para obtener más información sobre comercio electrónico. Síguelo en <a href="https://twitter.com/DarrenDeMatas" target="_blank">Twitter</a> y <a href="https://www.linkedin.com/in/internetmarketingmba" target="_blank">LinkedIn</a>.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/la-plantilla-virtual-en-un-negocio-online-10-consejos-para-impulsar-la-productividad/">La plantilla virtual en un negocio online: 10 consejos para impulsar la productividad</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/la-plantilla-virtual-en-un-negocio-online-10-consejos-para-impulsar-la-productividad/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Celebramos un logro increíble de nuestra comunidad: ¡Ya somos un millón! #WeAre1Million</title>
+		<link>https://www.prestashop.com/blog/es/celebramos-un-logro-increible-de-nuestra-comunidad-ya-somos-un-millon/</link>
+		<comments>https://www.prestashop.com/blog/es/celebramos-un-logro-increible-de-nuestra-comunidad-ya-somos-un-millon/#comments</comments>
+		<pubDate>Thu, 17 Mar 2016 15:10:37 +0000</pubDate>
+		<dc:creator><![CDATA[Sabrina Maréchal]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14140</guid>
+		<description><![CDATA[<p>Sí, has leído bien: ¡la comunidad PrestaShop ha superado la barrera del millón de miembros! Durante los últimos nueva años, nuestra comunidad no ha dejado de crecer y de apoyar la aventura de PrestaShop. ¡Descubre cómo hemos llegado tan lejos! Llevamos varias semanas buceando en los archivos, repasando las estadísticas de nuestros colaboradores principales y [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/celebramos-un-logro-increible-de-nuestra-comunidad-ya-somos-un-millon/">Celebramos un logro increíble de nuestra comunidad: ¡Ya somos un millón! #WeAre1Million</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Sí, has leído bien: ¡la comunidad PrestaShop ha superado la barrera del millón de miembros! Durante los últimos nueva años, nuestra comunidad no ha dejado de crecer y de apoyar la aventura de PrestaShop. ¡Descubre cómo hemos llegado tan lejos!<br />
+<span id="more-14140"></span></p>
+<p>Llevamos varias semanas buceando en los archivos, repasando las estadísticas de nuestros colaboradores principales y riéndonos de viejas fotos. Por ejemplo, ¿sabías que Bruno solo tenía 23 años cuando fundó PrestaShop? De hecho, la mayoría del equipo tenía veintipocos… (<em>¡No te pierdas nuestro próximo artículo Throwback Thursday!</em>)</p>
+<p>No es ningún secreto que PrestaShop ha llegado hasta aquí gracias a nuestra increíble comunidad de código abierto: hemos lanzado montones de productos, organizado numerosos eventos y recibido contribuciones increíbles de personas de todo el mundo.</p>
+<p>Para entender estos logros comunes, hemos creado una línea del tiempo que refleja nuestra historia desde 2007&#8230; y hemos encontrado a nuestros 40 colaboradores más comprometidos en 24 países distintos. Superestrellas del foro, leyendas de GitHub, gurús de la traducción y maestros de Addons: todos han contribuido al desarrollo de la comunidad.</p>
+<p>Acompaña a Preston en su paseo —o más bien su vuelo— por el camino de los recuerdos y conoce a estos miembros excepcionales.</p>
+<div class="text-center"><a class="btn" style="background-color: #fcbb23; border: 1px solid #fcbb23; border-bottom: 3px solid #e9a621; margin: 20px 0 0; color: #fff;" href="http://weare1million.prestashop.com/es?utm_source=blog&amp;utm_medium=blog-post&amp;utm_campaign=weare1million&amp;utm_content=blog-post-launch-ES" target="_blank"><i class="fa fa-key"></i>   Descubre la historia de la comunidad PrestaShop</a></div>
+<p>&nbsp;</p>
+<p>Prepárate para nuestros próximos artículos:</p>
+<ul style="padding-left: 30px;">
+<li>Conocerás a nuestros 40 miembros históricos (22 de marzo)</li>
+<li>Te presentaremos a nuestro miembro un millón (29 de marzo)</li>
+<li>Publicaremos un artículo Throwback Thursday especial (31 de marzo)</li>
+<li>Descubrirás donde reside la fuerza del código abierto (5 de abril)</li>
+</ul>
+<p>Si quieres ser uno de los candidatos a llevarte esta camiseta superexclusiva y megalimitada (<em>de verdad, ¡solo tenemos diez!</em>), descarga <a href="https://www.prestashop.com/download/pdf/WeAre1Million.pdf" target="_blank">este póster</a>, sácate una foto épica con él y publícala en Twitter con el hashtag #WeAre1Million y citando a @PrestaShop. ¿Quién sabe? ¡Podrías estar entre los ganadores! <img src="https://www.prestashop.com/blog/es/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> </p>
+<p>Esperamos que disfrutes de nuestro pequeño paseo por la historia. Y ahora, ¡a prepararnos para dar la bienvenida al miembro 2.000.000!</p>
+<p>¡Os queremos! ❤</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/celebramos-un-logro-increible-de-nuestra-comunidad-ya-somos-un-millon/">Celebramos un logro increíble de nuestra comunidad: ¡Ya somos un millón! #WeAre1Million</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/celebramos-un-logro-increible-de-nuestra-comunidad-ya-somos-un-millon/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Mejora tus ventas gracias al mercado virtual estadounidense Jet</title>
+		<link>https://www.prestashop.com/blog/es/mejora-tus-ventas-gracias-al-mercado-virtual-estadounidense-jet/</link>
+		<comments>https://www.prestashop.com/blog/es/mejora-tus-ventas-gracias-al-mercado-virtual-estadounidense-jet/#comments</comments>
+		<pubDate>Thu, 17 Mar 2016 15:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[Margaux Choplin]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14163</guid>
+		<description><![CDATA[<p>Los mercados virtuales son un recurso rápido y eficaz para mejorar las ventas de una tienda online. Amazon, Alibaba, eBay y Etsy son algunos de los más conocidos y generan cifras récord en todo el mundo. Si te posicionas en varios mercados, podrás dirigirte a diferentes audiencias al tiempo que ganas tráfico y visibilidad. Aquí [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/mejora-tus-ventas-gracias-al-mercado-virtual-estadounidense-jet/">Mejora tus ventas gracias al mercado virtual estadounidense Jet</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Los mercados virtuales son un recurso rápido y eficaz para mejorar las ventas de una tienda online. Amazon, Alibaba, eBay y Etsy son algunos de los más conocidos y generan cifras récord en todo el mundo. Si te posicionas en varios mercados, podrás dirigirte a diferentes audiencias al tiempo que ganas tráfico y visibilidad. Aquí es donde entra en juego Jet.com.<br />
+<span id="more-14163"></span><br />
+En cada país hay un nombre local que domina el e-commerce: en Francia es Cdiscount; en Brasil, MercadoLivre; en la India, Flipkart; en Rusia, Ulmart. Ahora en los Estados Unidos hay una plataforma nueva y poderosa: Jet.com, que quiere ayudar a los pequeños vendedores a lograr sus objetivos. Se presentó en julio de 2015 y su meta es superar a Amazon alcanzando los 20.000 millones de dólares en mercancías vendidas para 2020. </p>
+<p>Según <em>The Washington Post</em> y <em>TechCrunch</em>, <strong>Jet.com se convirtió en el cuarto mercado más popular de los Estados Unidos</strong> en términos de valor bruto de la mercancía (GMV) en agosto de 2015, solo un mes después de su lanzamiento. Y lo que es aún mejor: la empresa anunció en noviembre que había llegado a los 33 millones de dólares en ventas y al millón de clientes&#8230; con un 23 % de usuarios que volvieron a comprar. Con millones de clientes fieles ya convencidos, Jet.com es, como ellos mismos dicen, un &#8220;mercado virtual justo y muy eficaz, lo que se traduce en el mejor precio para los compradores y en mejores márgenes y un mayor control sobre la rentabilidad para los minoristas&#8221;.</p>
+<p>¿Qué significa eso para los vendedores? Tenemos un nuevo mercado de venta online con un público que vuelve a comprar una y otra vez. Así que&#8230; ¡es el momento para subirse al carro de Jet.com! Integra tu marca con el nuevo <a href="http://addons.prestashop.com/es/22098-jet-marketplace.html" target="_blank">módulo dedicado</a> desarrollado con ayuda de nuestro <a href="https://addons.prestashop.com/es/integration-fund" target="_blank">fondo de integración</a>. Su creador es <a href="http://addons.prestashop.com/es/58_common-services" target="_blank">Common Services</a>, uno de nuestros colaboradores especializados en mercados virtuales. El módulo de Jet.com te permite exportar sin esfuerzo tu catálogo y gestionar tus artículos en Jet.com, además de sincronizar tus pedidos con el back-office de PrestaShop. Si ya vendes en Amazon u otros mercados virtuales, ¡será pan comido! Si no te has estrenado aún en estos mercados de venta online, este módulo es una buena forma de empezar. </p>
+<p>Jet.com tiene multitud de ventajas para los minoristas presentes en mercados virtuales: envío gratuito a partir de un importe, devoluciones gratuitas y todo tipo de descuentos por cantidad. ¡Todo ello contribuye a aumentar el valor medio del pedido en el sitio de Jet! Jet.com también te ofrece un motor de precios dinámico que te consigue el mejor margen y te ayuda a reducir costes. </p>
+<p>Jet.com sigue su camino hacia la cumbre&#8230; y lleva consigo a sus vendedores. Es una oportunidad magnífica para llegar a una nueva audiencia y ser uno de los primeros en situarse en este mercado virtual: <strong>las tiendas que ya se han unido están mejorando sus ventas un 5 % gracias a él</strong>. Por el momento, PrestaShop es el único proveedor de software para pymes que oferta un módulo para Jet. </p>
+<p>¡Pruébalo y dinos qué te parece!</p>
+<p><a href="http://addons.prestashop.com/es/22098-jet-marketplace.html" target="_blank">Descubre más sobre el módulo de Jet.com</a> </p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/mejora-tus-ventas-gracias-al-mercado-virtual-estadounidense-jet/">Mejora tus ventas gracias al mercado virtual estadounidense Jet</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/mejora-tus-ventas-gracias-al-mercado-virtual-estadounidense-jet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Implementación de Google Shooping en Prestashop</title>
+		<link>https://www.prestashop.com/blog/es/implementacion-de-google-shooping-en-prestashop/</link>
+		<comments>https://www.prestashop.com/blog/es/implementacion-de-google-shooping-en-prestashop/#comments</comments>
+		<pubDate>Thu, 17 Mar 2016 14:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+		<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14176</guid>
+		<description><![CDATA[<p>Hablábamos hace unos días sobre las ventajas de utilizar Marketplaces con vuestro Prestashop y dentro del artículo hacíamos referencia al uso de Googe Shopping con Prestashop, así que en este nuevo post nos gustaría explicar las distintas formas en las que podemos configurar un feed de datos válido para Google Shopping en Prestashop y empezar [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/implementacion-de-google-shooping-en-prestashop/">Implementación de Google Shooping en Prestashop</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hablábamos hace unos días sobre las <a href="https://www.prestashop.com/blog/es/destaca-tu-prestashop-en-marketplaces/">ventajas de utilizar Marketplaces con vuestro Prestashop</a> y dentro del artículo hacíamos referencia al uso de <b>Googe Shopping con Prestashop</b>,<b> </b>así que en este nuevo post nos gustaría explicar las distintas formas en las que podemos <b>configurar un feed de datos válido para Google Shopping en Prestashop</b> y empezar a vender en este apetecible Marketplace.<span id="more-14176"></span></p>
+<h2>¿Cómo funciona el sistema de Google Shooping y Merchant center?</h2>
+<p>Aquí tienes un <a href="http://juanluismora.es/sem/google-shopping-date-de-alta-aparece-y-empieza-a-vender.html">artículo</a> donde se detalla este funcionamiento de forma completa, pero te dejamos un resumen con las dudas más comunes:</p>
+<ol>
+<li>Para que tus productos aparezcan en Google Shooping es <b>totalmente necesario</b> que tengas una cuenta en <a href="https://www.google.com/retail/merchant-center/">Merchant Center</a>.</li>
+<li>En esa cuenta es donde tienes que <b>subir el feed de datos</b> y desde allí lo <b>enlazamos con una campaña de Google Shopping</b> en Adwords para poder empezar a mostrar tus productos.</li>
+<li>Una vez tengas esto <b>la optimización de la campaña la harás desde Adwords </b>quedando Merchant Center para configuración del feed y la tienda (lo puedes ver en el <a href="http://juanluismora.es/sem/google-shopping-date-de-alta-aparece-y-empieza-a-vender.html">artículo</a> anteriormente enlazado) y también para diagnosticar el estado del feed y ver rápidas estadísticas de clics de pago como puedes ver en la siguiente captura.</li>
+</ol>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/googleshopping1_Prestashop.png"><img class="alignleft size-full wp-image-14180" alt="googleshopping1_Prestashop" src="https://www.prestashop.com/blog/es/files/2016/03/googleshopping1_Prestashop.png" width="804" height="463" /></a></p>
+<h2>¿Cómo crear el feed de datos de Merchant Center para una tienda Prestashop?</h2>
+<p>Bien, una vez dada la explicación inicial vamos a ver de qué formas podemos crear un feed de datos a usar en las campañas de Google Shooping.</p>
+<p>Tenemos <b>tres formas de subir los datos a Merchant Center:</b></p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/googleshopping2_Prestashop.png"><img class="alignleft size-full wp-image-14181" alt="googleshopping2_Prestashop" src="https://www.prestashop.com/blog/es/files/2016/03/googleshopping2_Prestashop.png" width="1137" height="309" /></a></p>
+<ol>
+<li>Usar una <b>hoja de Google Drive</b></li>
+<li>Alojar un <b>archivo XML</b> en algún lugar del hosting para que se puedan hacer recuperaciones programadas. Que para nuestro caso lo que haríamos es usar un módulo de Merchant Center que cree ese archivo en vuestro servidor.</li>
+<li>Subir directamente un archivo XMl de forma periódica. En caso de usar la última opción no olvides que debes <a href="https://support.google.com/merchants/answer/6191341?hl=es-419">actualizar ese archivo al menos cada 30 días</a></li>
+</ol>
+<h3>Método 1: Feed de Merchant usando una hoja de cálculo en GDrive.</h3>
+<p>Es una opción válida si no tienes demasiados productos en el inventario, o no los quieres publicitar todos en Google Shopping. Yo diría que siempre que se tengan unos 100 productos o menos es una opción viable y sobre todo gratuita.</p>
+<h3>¿Cómo crear la hoja de cálculo válida para Merchant?</h3>
+<p><a href="https://support.google.com/merchants/answer/2364723?hl=es">Aquí </a>tienes toda la información oficial de Google Shopping que puedas necesitar para hacer el fichero de datos, por nuestra parte te mostramos un <b>ejemplo del formato de una hoja de cálculo para Merchant Center.</b></p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/googleshopping3_Prestashop.png"><img class="alignleft size-full wp-image-14182" alt="googleshopping3_Prestashop" src="https://www.prestashop.com/blog/es/files/2016/03/googleshopping3_Prestashop.png" width="776" height="150" /></a></p>
+<p><b>Especificación de campos:</b></p>
+<ol>
+<li><b>ID</b>, el identificador de cada producto tiene que ser único dentro de la cuenta y no se puede volver a utilizar en otros feeds del mismo país e idioma.</li>
+<li><b>Title</b>, es el nombre del artículo (obligatorio). Se recomienda incluir en el título del producto características que lo diferencien de otros productos, como el color o la marca.</li>
+<li><b>Description</b>, nuestra recomendación es que se envíen de 500 a 1000 caracteres, pero puedes enviar hasta 5000 caracteres. Las descripciones deben seguir las normas gramaticales estándar y terminar con signos de puntuación.</li>
+<li><b>Price</b>, el precio (impuestos y gastos de envío incluidos si así se establece en la página de destino) y la moneda deben coincidir.</li>
+<li><b>Link</b>, es el link directo a la ficha del producto en la tienda.</li>
+<li><b>Avalability</b>, es la disponibilidad y se debe indicar con:
+<ol>
+<li><b>[preorder]</b>: Pedido anticipado</li>
+<li><b>[in stock]</b>: Disponible</li>
+<li><b>[out of stock]</b>: Agotado</li>
+</ol>
+</li>
+<li><b>Image_link</b>, es el enlace directo a la imagen</li>
+</ol>
+<p>En principio con estos datos podemos montar perfectamente el fichero, pero según ha <a href="http://searchengineland.com/retailers-gtins-required-by-may-16-for-google-product-listing-ads-242292">publicado Google </a>desde el próximo 16 de mayo también <b>será obligatorio el campo GTIN</b>, según comentan es porque van a aprovechar ese <a href="http://juanluismora.es/sem/actualizacion-adwords-4-ads-seo-nada-sidebar.html">hueco lateral que Google ha dejado en el sidebar derecho</a> con un uso más extensivo de Google Shopping, así que  no estaría de más añadirlo al fichero, para encontrarlo os puede ser útil <a href="https://support.google.com/merchants/answer/6219078">este documento de la ayuda de Adwords.</a></p>
+<h2>¿Te parece mucho lío? ¿Quieres un módulo Prestashop para Merchant Center?</h2>
+<p>Aunque puede parecer bastante lioso no lo es tanto para pocos productos, pero por supuesto tenemos algunos módulos que nos ayudan a generar un feed de datos completo y usable para Merchant sin demasiados problemas. Por nuestra parte os recomendamos el <a href="http://addons.prestashop.com/es/1768-google-merchant-center-google-shopping.html">módulo oficial</a> que aunque tiene un coste de casi 100 euros funciona perfectamente en Prestashop y estamos seguros de que lo vais a amortizar en ventas en poco tiempo ;).</p>
+<h3>Configurar módulo gmerchantcenter de prestashop</h3>
+<p>Para hacerlo el propio módulo ofrece un <a href="http://addons.prestashop.com/demo/BO848.html">back de prueba</a> con clave de acceso:</p>
+<ul>
+<li>demo@demo.es / demodemo.</li>
+</ul>
+<p>Una vez dentro buscamos el módulo “<i>gmerchantcenter</i>” y le damos a configurar. Dentro de cada opción de configuración podremos ver siempre una “<i>?</i>” en la que se nos muestra toda la información de ese apartado.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/googleshopping4_Prestashop.png"><img class="alignleft size-full wp-image-14183" alt="googleshopping4_Prestashop" src="https://www.prestashop.com/blog/es/files/2016/03/googleshopping4_Prestashop.png" width="1177" height="688" /></a></p>
+<h2>Recomendaciones</h2>
+<ol>
+<li><b>Rellena todos los campos</b> y especifica los valores correctos o de lo contrario es muy probable que el Merchant no te valide el feed y si lo hace no te va a funcionar bien porque no estarás mostrando los datos correctos.</li>
+<li>Asegurate de <b>elegir una buena imagen</b> para los productos que mandas.</li>
+<li>A la hora de poner el nombre yo suelo usar el formato: <b>categoría + nombre</b> para que el nombre quede más optimizado.</li>
+<li>En “<i>manejo de la alimentación</i>” tienes las opciones de gastos de envío, tasas y parámetros especiales para ropa como tallas, colores… Te recomiendo que siempre <b>revises todos los puntos de esta opción</b> y además aquí puedes filtrar categorías que no desees mandar.</li>
+<li>Una parte muy importante está también en “<i>método de exportación</i>” aquí debes elegir las <b>categorías de Google</b>, si no lo haces estarás perdiendo mucha relevancia para tus productos ya que esas categorías son las que ayudan a shopping a entender tus productos dentro del mercado y saber cuándo será relevante mostrarlos.</li>
+<li>Por último, en el campo “<i>mis feeds</i>” tienes los controles para generar cada uno de los feeds y el link a la url que debes configurar en el cron para que todo se genere de forma automática, te recomiendo una vez al día y que<b> tengas en cuenta la hora a la que le has indicado a Merchant</b> que lo lea cada día para que ambas cuadren con un margen de error de al menos una hora.</li>
+<li>Después de generar el feed tienes un <b>informe de resultados </b>muy útil y que da enlaces a la resolución de cualquier problema que te pueda surgir.</li>
+</ol>
+<p>Saludos y muchas gracias por llegar hasta el final de este artículo, espero que te sea de utilidad y puedas adentrarte gracias a él en el maravilloso mundo de Google Shopping.<br />
+Sobre el autor:</p>
+<p><img class=" wp-image-13624  alignleft" style="margin-top: -2px;margin-bottom: -2px" alt="Prestashop Partner" src="https://www.prestashop.com/blog/es/files/2016/02/Juan-Luis.jpg" width="80" height="80" /></p>
+<p><strong>Juan Luis Mora</strong> &#8211; Consultor Freelance especializado en <a href="http://juanluismora.es/ecommerce/seo-prestashop.html" target="_blank">SEO y SEM para Prestashop</a>. Gran parte de lo que voy aprendiendo lo publico en mi blog y me perfil de Twitter <a href="http://twitter.com/juanluismora_es" target="_blank">@juanluismora_es</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/implementacion-de-google-shooping-en-prestashop/">Implementación de Google Shooping en Prestashop</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/implementacion-de-google-shooping-en-prestashop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Zona de pádel, equipando a los campeones!</title>
+		<link>https://www.prestashop.com/blog/es/caso-de-exito-zona-de-padel-equipando-a-los-campeones/</link>
+		<comments>https://www.prestashop.com/blog/es/caso-de-exito-zona-de-padel-equipando-a-los-campeones/#comments</comments>
+		<pubDate>Thu, 17 Mar 2016 03:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Jhon Suarez Pardo]]></dc:creator>
+				<category><![CDATA[Caso de éxito]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=13855</guid>
+		<description><![CDATA[<p>Hoy estamos con Julián Matias Debón, encargado de la tienda de Zona de Pádel, es una tienda online especializada en productos de pádel, palas, zapatillas, ropa y complementos. Julián, cuéntanos un poco sobre Zona de Pádel. Zona de Pádel nació en 2012, gracias a nuestra pasión por el deporte, el pádel e internet. En principio fue una idea [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/caso-de-exito-zona-de-padel-equipando-a-los-campeones/">Zona de pádel, equipando a los campeones!</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hoy estamos con Julián Matias Debón, encargado de la tienda de Zona de Pádel, es una tienda online especializada en productos de pádel, palas, zapatillas, ropa y complementos.<span id="more-13855"></span></p>
+<h2><span style="color: #59bbc4">Julián, cuéntanos un poco sobre Zona de Pádel.</span></h2>
+<p>Zona de Pádel nació en 2012, gracias a nuestra pasión por el deporte, el pádel e internet. En principio<strong> fue una idea enfocada 100% al mundo online. Aunque al final, por necesidades del mercado, era necesario disponer de un showroom para reforzar la presencia de la marca en nuestra zona.</strong></p>
+<p>A día de hoy estamos muy satisfechos con nuestro proyecto, ya que prácticamente hemos multiplicado exponencialmente nuestra facturación anual, año tras año.</p>
+<h2><span style="color: #59bbc4">¿Cómo y por qué elegiste PrestaShop?</span></h2>
+<p>Esta decisión fue tomada por nuestro Partner tecnológico, <strong><span style="color: #800000"><a href="http://www.4webs.es/" target="_blank"><span style="color: #800000">4webs</span></a></span></strong>. Dicha compañía nos mostró todo el potencial que podía tener la herramienta. Nos enseñó que las limitaciones de PrestaShop se encuentran en nuestra mente. Ya que, <strong>si colaboras estrechamente con una buena empresa de desarrollo, tus necesidades del día a día las vas a poder cubrir sin problemas</strong>. Así fue, después de una versión inicial muy básica, hicimos crecer el proyecto de forma muy satisfactoria y ágil con PrestaShop.</p>
+<h2><span style="color: #59bbc4">Al ser tienda física ¿Qué tipo de herramientas usas para sincronizar el stock?</span></h2>
+<p>La verdad es que esto es un problema que nos ha costado muchísimo de solucionar. Los costes de integración con un ERP de alto nivel eran prohibitivos, pero por las necesidades de nuestro día a día necesitábamos un ERP que se acoplara a nosotros y no nosotros a él.</p>
+<p>Finalmente <strong>hemos optado por desarrollar nuestro propio ERP que nos permite la gestión de devoluciones, cambios, TPV-POS, garantías, control de stock, etc.</strong></p>
+<h2><span style="color: #59bbc4">¿Cuál es el canal que te genera más ventas ahora? ¿qué estrategias seguiste para atraer tráfico y conversión a su lanzamiento?</span></h2>
+<p>Como os hemos contado, somos una empresa 100% online, por lo que más del 70% de la facturación es online. La verdad es que para nosotros es muy importante la marca. Consideramos que nuestros clientes se tienen que identificar con nosotros. Por tanto, nos <strong>es imprescindible tener una estrategia de contenidos muy potente y en todos los ámbitos: artículos, fotos, vídeos, etc.</strong></p>
+<p>Lo que pretendemos es ser más que una tienda en la que vender artículos, también <strong>queremos ser un referente informativo, didáctico y de entretenimiento</strong>.</p>
+<p>Un lugar de encuentro con el mundo del pádel, en el que transmitir a los clientes nuestro amor por este deporte.</p>
+<p>Además de lo anterior, <strong>es necesario complementarlo con campañas de pago en todas sus posibilidades.</strong></p>
+<h2><span style="color: #59bbc4">¿Qué le recomiendas a las empresas que tienen local físico y que están considerando tener una tienda virtual?</span></h2>
+<p><strong>Internet es el presente y el futuro</strong>. Sin lugar a dudas les recomiendo que se lancen a la aventura, pero que lo planteen como una inversión de crecimiento del negocio. Se requiere de una inversión potente tanto en la plataforma de venta como en captación de clientes.</p>
+<p>Sin embargo, es <strong>la forma de poder acceder a nuevos clientes, conseguir mercado más allá de un limitado espacio geográfico.</strong> Es al fin y al cabo es una opción de crecimiento que a la larga puede ser más económica que la apertura de nuevas tiendas físicas en otros enclaves.</p>
+<h2><span style="color: #59bbc4">¿Algo más que quieras compartir?</span></h2>
+<p>Que estudien y valoren las posibilidades que les ofrece PrestaShop en el desarrollo de sus negocios online. Que <strong>revisen y optimicen reiteradamente su herramienta y procesos, ya que una empresa debe estar continuamente reinventándose y adaptándose al entorno cambiante.</strong> Y que tengan mucha suerte con sus proyectos.</p>
+<p>Visita la web: <strong><a href="http://www.zonadepadel.es/" target="_blank"><span style="color: #800000">www.zonadepadel.es</span></a><a href="http://www.sdesabor.es/" target="_blank"><br />
+</a></strong></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/caso-de-exito-zona-de-padel-equipando-a-los-campeones/">Zona de pádel, equipando a los campeones!</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/caso-de-exito-zona-de-padel-equipando-a-los-campeones/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SEO en páginas de categorías en un ecommerce: Identificando oportunidades</title>
+		<link>https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-identificando-oportunidades/</link>
+		<comments>https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-identificando-oportunidades/#comments</comments>
+		<pubDate>Wed, 16 Mar 2016 15:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[Los amigos de Preston]]></dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+		<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=14155</guid>
+		<description><![CDATA[<p>Cuando pensamos en la estrategia de Posicionamiento Natural en Buscadores de un ecommerce debemos visualizar que tenemos un sitio web con distintas zonas donde incidir;  distintos tipos de páginas donde nuestra táctica SEO puede cambiar un poco. En una tienda online tenemos varias zonas bien definidas -          La página Home -          Las páginas de categorías [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-identificando-oportunidades/">SEO en páginas de categorías en un ecommerce: Identificando oportunidades</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Cuando pensamos en la estrategia de Posicionamiento Natural en Buscadores de un ecommerce debemos visualizar que tenemos un sitio web con distintas zonas donde incidir;  distintos tipos de páginas donde nuestra táctica SEO puede cambiar un poco.<span id="more-14155"></span></p>
+<p>En una tienda online tenemos varias zonas bien definidas</p>
+<p>-          La página Home</p>
+<p>-          Las páginas de categorías y subcategorías de productos</p>
+<p>-          Las páginas de fichas de producto</p>
+<p>-          El blog de la tienda online y sus respectivos posts</p>
+<p>-          Página o zona de ofertas, outlet, etc.</p>
+<p>-          Otras páginas de apoyo para el SEO (guías, preguntas frecuentes, glosario, etc.)</p>
+<p>En mi opinión, <b>las páginas de categorías de un ecommerce son la fuente más importante de tráfico orgánico</b>. Es donde debemos esmerarnos para mejorar nuestra visibilidad en los motores de búsqueda.</p>
+<p>Las páginas de categorías o familias de productos en una tienda online son unas páginas de nivel intermedio dentro del organigrama de la web donde solemos mostrar listados de los productos que conforman la agrupación de dicha categoría. Por ejemplo si tienes una tienda online de “lámparas”: las páginas de familias serían “lámparas de techo”, “lámparas de pie”, “lámparas rústicas”, etc.</p>
+<p>Veamos algunas tiendas online importantes y observemos cuáles son sus páginas que mejor se posicionan y que más tráfico orgánico atraen.</p>
+<p>Caso Zalando.com. Usando la herramienta Semrush vemos por ejemplo, que el top10 de páginas de su site que les trae más tráfico de SEO son:</p>
+<p><a href="https://es.semrush.com/es/info/zalando.es+(by+organic_uniq_urls)">https://es.semrush.com/es/info/zalando.es+(by+organic_uniq_urls)</a></p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/SEO_onpage_categorias_Javier_Gosende1.jpg"><img class="alignleft size-full wp-image-14161" alt="SEO_onpage_categorias_Javier_Gosende1" src="https://www.prestashop.com/blog/es/files/2016/03/SEO_onpage_categorias_Javier_Gosende1.jpg" width="937" height="557" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Páginas de Categorías: calzado de mujer, ropa de mujer, new balance, calzado, botas de mujer.</p>
+<p>Veamos otra tienda para confirmar esta teoría: Caso pccomponentes</p>
+<p><a href="https://es.semrush.com/es/info/pccomponentes.com+(by+organic_uniq_urls)">https://es.semrush.com/es/info/pccomponentes.com+(by+organic_uniq_urls)</a></p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/SEO_onpage_categorias_Javier_Gosende2.jpg"><img class="alignleft size-full wp-image-14162" alt="SEO_onpage_categorias_Javier_Gosende2" src="https://www.prestashop.com/blog/es/files/2016/03/SEO_onpage_categorias_Javier_Gosende2.jpg" width="943" height="563" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Páginas de Categorías: portátiles, smartphones, tablets, teclados, televisores, cables hdmi</p>
+<p>Tanto en el caso de zalando como de pccomponentes la página más popular a nivel SEO es la página Home (obvio dado que chupa mucho tráfico orgánico de marca), pero luego tenemos a diferentes páginas de categorías o subcategorías.</p>
+<p>Visto esto, debemos esforzarnos en <b>crear páginas de categorías muy bien optimizadas </b>para mejorar el posicionamiento orgánico global de nuestro site.</p>
+<p>Propongo la siguiente metodología de trabajo:</p>
+<p>1)      Identificar el nombre de las categorías y subcategorías que vamos a posicionar en nuestro ecommerce y su respectivas palabras clave</p>
+<p>2)      Crear las páginas y hacer un buen trabajo de SEOonpage</p>
+<p>3)      Aplicar a dichas páginas de categorías un buen trabajo de linkbuilding interno y externo.</p>
+<p>En este artículo hablaremos del primer punto</p>
+<h2> <b>1) Nombres de las Categorías y sus Palabras Clave</b></h2>
+<p>Al momento de estructurar las secciones de tu ecommerce, debes identificar los nombres más adecuados para las categorías y subcategorías. Piensa en tu usuario y trata de identificar cuál es su forma más habitual a la hora de buscar tus productos. ¿Qué categorías son las más familiares para su vocabulario?</p>
+<p>Para apoyarse en esta valiosa tarea, nos acompañamos de herramientas de investigación de palabras clave.  Nos vienen bien herramientas como:</p>
+<p>-          Planificador de Palabras Clave de <a href="https://adwords.google.es/keywordplanner">Google Adwords Keyword Tool</a></p>
+<p>-          <a href="https://es.semrush.com/">Semrush</a> y <a href="https://www.sistrix.es/">Sistrix</a> para investigar las palabras clave de la competencia</p>
+<p>-          <a href="http://keywordtool.io/">Keyword Tool IO</a> para sacar buenas ideas de categorías de cola muy larga</p>
+<p>Con los datos obtenidos, confeccionaremos un listado de categorías con palabras clave que coincidan con la forma en que se buscan nuestros productos.</p>
+<p><a href="https://www.prestashop.com/blog/es/files/2016/03/SEO_onpage_categorias_Javier_Gosende3.jpg"><img class="alignleft size-full wp-image-14158" alt="SEO_onpage_categorias_Javier_Gosende3" src="https://www.prestashop.com/blog/es/files/2016/03/SEO_onpage_categorias_Javier_Gosende3.jpg" width="623" height="438" /></a></p>
+<p>Ejemplo: Supongamos que tenemos una tienda online de “Lámparas”</p>
+<p>Nos vamos a las herramientas de investigación de palabras clave y vemos que las keywords más buscadas asociadas a esto concepto son: lámparas de techo, lámparas de pie, lámparas modernas, lámparas de led, lámparas infantiles.</p>
+<p>Si “lámpara de techo” tiene muchas búsquedas y vendemos ese producto, puedes debemos crear una página de categoría enfocada a posicionar dicha keyword.</p>
+<p>La siguiente pregunta es: ¿Dentro de “lámparas de techo” existen búsquedas de cola larga? Volviendo a usar nuestras herramientas de investigación de palabras clave nos damos cuenta que hay un grupo de frases más específicas que tienen búsquedas: lámpara de techo de salón, lámparas de techo dormitorio, y lámparas de techo de cocina, entre otras. En este caso debemos crear una página de subcategoría para cada una de estas palabras clave.</p>
+<p>Al final la arquitectura de nuestro ecommerce debe ser un fiel reflejo de la forma más habitual que tienen nuestros usuarios para buscar los productos del sector. Y las herramientas de investigación de palabras clave son los mejores consejeros para decirnos cuáles son estas frases.</p>
+<p>&nbsp;</p>
+<p>Sobre el Autor:</p>
+<p><a style="line-height: 1.5;color: #ea9629;text-decoration: underline" href="https://www.prestashop.com/blog/es/files/2016/03/Javier_Gosende.jpg"><img class="wp-image-14159 alignleft" style="margin-top: -5px;margin-bottom: -5px" alt="Javier_Gosende" src="https://www.prestashop.com/blog/es/files/2016/03/Javier_Gosende.jpg" width="80" height="80" /></a><b>Javier Gosende </b>– Profesor y Consultor en Marketing Online desde el 2004, especializado en SEO y SEM. Sitio web <a href="http://www.javiergosende.com/" target="_blank">www.javiergosende.com</a> Twitter: <a href="http://twitter.com/javiergosende" target="_blank">@javiergosende</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-identificando-oportunidades/">SEO en páginas de categorías en un ecommerce: Identificando oportunidades</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/seo-en-paginas-de-categorias-en-un-ecommerce-identificando-oportunidades/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
