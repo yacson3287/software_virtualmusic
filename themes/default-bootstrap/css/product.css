@@ -240,7 +240,8 @@ span.view_scroll_spacer {
 
 /* link list */
 #usefull_link_block {
-  list-style-type: none; }
+  list-style-type: none; 
+   visibility: hidden;}
   #usefull_link_block li {
     margin: 0 0 8px 0; }
     @media (min-width: 768px) and (max-width: 991px) {
