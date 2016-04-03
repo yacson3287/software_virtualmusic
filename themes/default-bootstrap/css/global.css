@@ -7235,7 +7235,7 @@ div.star a:hover {
     .footer-container {
       background: url(../img/footer-bg.png) repeat-x #333; } }
   .footer-container .container {
-    padding-bottom: 100px; }
+    /*padding-bottom: 100px;*/ }
   .footer-container #footer {
     color: #777777; }
     .footer-container #footer .row {
